@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "myapp.aldgl",
+    "appIdentifier": "com.mendix.aldgl",
     "appName": "ALD GL",
     "bundleName": {
         "main": "ALDGL",
@@ -104,6 +104,6 @@
         }
     },
     "appVersion": "3.0.0",
-    "buildNumber": 13,
+    "buildNumber": 15,
     "runtimeUrl": "https://ald-accp.apps.au-1a.mendixcloud.com"
 }
