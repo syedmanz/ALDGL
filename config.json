@@ -103,7 +103,7 @@
             "enabled": true
         }
     },
-    "appVersion": "7.0.0",
-    "buildNumber": 23,
-    "runtimeUrl": "https://ald.apps.au-1a.mendixcloud.com"
+    "appVersion": "8.0.0",
+    "buildNumber": 90,
+    "runtimeUrl": "https://ald-development.apps.au-1a.mendixcloud.com/"
 }
